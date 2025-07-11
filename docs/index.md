@@ -10,6 +10,10 @@ The Data Introspection Project is a collection of tools and ideas centered aroun
 
 Data introspection is the practice of using data as a playground for personal development. Through a data introspection practice, an individual collects, analyzes, and reflects on their digital footprint in order to surface insights about their habits, preferences, patterns, growth, and well-being.
 
+### Introduction to Data Introspection
+
+![Alt text](./img/data-zine.pdf){ type=application/pdf style="width:100%; height:1000px;" }
+
 ### Big Tech has warped our relationship to our information
 Our digital lives are increasingly noisy, shaped by the gigabytes of information that we consume on a daily basis. The bits and bytes that make their way into our psychology via messages, articles, videos, shorts, and podcasts are algorithmically curated to latch into relevancy. Platforms that serve information to us use our attention to personalize recommendations and advertisements, leaving us in a swirling vortex of information.
 
