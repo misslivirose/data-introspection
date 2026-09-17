@@ -10,6 +10,12 @@ The Data Introspection Project is a collection of tools and ideas centered aroun
 
 Data introspection is the practice of using data as a playground for personal development. Through a data introspection practice, an individual collects, analyzes, and reflects on their digital footprint in order to surface insights about their habits, preferences, patterns, growth, and well-being.
 
+### Data Introspection Tenets 
+1. Data-as-architecture enables flexibility and dynamism for future exploration and re-framing 
+2. The self is a construction of data our physical bodies have accumulated over time
+3. Applying data analytics and visualizations to personal data is a valid and emergent form of self-discovery
+4. You have more data than you think 
+
 ### Introduction to Data Introspection
 
 ![Alt text](./img/data-zine.pdf){ type=application/pdf style="width:100%; height:1000px;" }
